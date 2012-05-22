@@ -1,18 +1,17 @@
 {
-  "name":     "faceplate",
-  "version":  "0.0.4",
+  "name":     "faceplate-minimal",
+  "version":  "0.0.1",
   "author":   "Heroku",
-  "homepage": "https://github.com/heroku/faceplate",
+  "homepage": "https://github.com/patricklodder/faceplate-minimal",
 
-  "description": "Wrapper for Facebook authentication and API",
+  "description": "Wrapper for parsing Facebook signed requests",
 
   "repository": {
     "type": "git",
-    "url":  "https://github.com/heroku/faceplate"
+    "url":  "https://github.com/patricklodder/faceplate-minimal"
   },
 
   "dependencies": {
-    "b64url":  "1.0.3",
-    "restler": "2.0.0"
+    "b64url":  "1.0.3"
   }
 }
